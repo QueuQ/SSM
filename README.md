@@ -1,4 +1,5 @@
 ![SSM](https://github.com/QueuQ/SSM/tree/master/figures/pipeline_short_version.png)
+![CGLB](https://github.com/QueuQ/CGLB/blob/master/figures/logo2.png)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
