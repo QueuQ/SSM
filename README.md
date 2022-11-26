@@ -4,7 +4,7 @@
 
 This respository is based on the Continual Graph Learning Benchmark [CGLB](https://github.com/QueuQ/CGLB)
 
- <tr><td colspan="4"> <a href="#Get-Started">Get Started</a></td></tr> | <tr><td colspan="4"> <a href="#Dataset-Usages">Dataset Usages</a></td></tr> | <tr><td colspan="4"> <a href="#Pipeline-Usages">Pipeline Usages</a></td></tr> | <tr><td colspan="4"> <a href="#Evaluation-and-Visualization-Toolkit">Evaluation & Visualization Toolkit</a></td></tr> | <tr><td colspan="4"> <a href="#Benchmarks"> Benchmarks </a></td></tr> | <tr><td colspan="4"> <a href="#Acknowledgement"> Acknowledgement </a></td></tr>
+ <tr><td colspan="4"> <a href="#Get-Started">Get Started</a></td></tr> | <tr><td colspan="4"> <a href="#Evaluation-and-Visualization-Toolkit">Evaluation & Visualization Toolkit</a></td></tr> | <tr><td colspan="4"> <a href="#Acknowledgement"> Acknowledgement </a></td></tr>
 
  This is the official repository of Sparsified Subgraph Memory for Continual Graph Representation Learning (SSM), which was published in ICDM 2022.
  ```
