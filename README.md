@@ -11,7 +11,7 @@ This respository is based on the Continual Graph Learning Benchmark [CGLB](https
  @inproceedings{zhang2022sparsified,
   title={Sparsified Subgraph Memory for Continual Graph Representation Learning},
   author={Zhang, Xikun and Song, Dongjin and Tao, Dacheng},
-  booktitle={2022 IEEE International Conference on Data Mining (ICDM)},
+  booktitle={IEEE International Conference on Data Mining (ICDM)},
   pages={1335--1340},
   year={2022},
   organization={IEEE}
